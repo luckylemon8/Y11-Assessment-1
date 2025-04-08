@@ -1,7 +1,7 @@
 from testhelper import test
 
 def is_square_magic(square):
-    
+    pass
 
 
 
